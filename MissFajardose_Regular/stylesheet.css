@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'MissFajardose Regular';
+	src: url('MissFajardose-Regular.ttf') format('truetype');
+}.menu-section h3 {
+    color: #FFFFFF;
+    font-family: "MissFajardose Regular";
+    font-size: xx-large;
+    font-weight: lighter;
+    text-indent: 0px;
+    text-decoration: none;
+}
+p a strong {
+}
+
+.menu-section .menu-item h4 {
+}
+.menu-section h3 strong {
+}
+.menu-section h3 strong {
+}
